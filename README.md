@@ -1,4 +1,4 @@
-# 🛡️ MindForge: Decentralized Document Verification System
+# MindForge: Decentralized Document Verification System
 
 > **A Hybrid Architecture solution combining the speed of Cloud (AWS) with the trust of Blockchain (Ethereum) to fight deepfakes and document fraud.**
 
